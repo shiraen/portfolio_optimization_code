@@ -16,3 +16,7 @@ This project was created and deployed using Jupyter notebook. To run the program
 ## Contributing
 
 Contributions are welcome! If you have an idea how to make the program more efficient or robust, please message me first before submitting a pull request. Thank you!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiraen/portfolio_optimization_code.git/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/shiraen/portfolio_optimization_code.git/HEAD
